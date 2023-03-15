@@ -1,4 +1,5 @@
-
+## Details
+  Refer: https://docs.google.com/presentation/d/1kYotVG-65-7zJnlXj2d1fU48CdQboTJFVdcLnVdarKc/edit?usp=sharing
 ## Quick Start
 
 ### Android
